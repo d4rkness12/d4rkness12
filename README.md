@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**d4rkness12/d4rkness12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im d4rk a student who astudent passionate about linux , backends and ethical hacking
 
-Here are some ideas to get you started:
+I’m currently working on buildng a basic foundation of linux , python , go and SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning linux command line and bash scripting
+
+I’m looking to collaborate on future projects 
+
+I’m looking for help with clear roadmaps and help on learning 
+
+How to reach me: to reach out to me you can gmail to techie.landerlasis@gmail.com for any help
+
+Pronouns: He/him
+
+Fun fact: Im using arch btw
+
