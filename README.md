@@ -1,6 +1,6 @@
 ## Looking for a teenage backend enthusiast ???
 
-Im d4rk a student who astudent passionate about linux , backends and ethical hacking
+Im d4rk a student who is passionate about linux , backends and ethical hacking
 
 I’m currently working on buildng a basic foundation of linux , python , go and SQL
 
