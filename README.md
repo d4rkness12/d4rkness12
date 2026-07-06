@@ -12,6 +12,10 @@ I’m looking for help with clear roadmaps and help on learning
 
 How to reach me: to reach out to me you can gmail to techie.landerlasis@gmail.com for any help
 
+Connect with me
+
+- LeetCode: https://leetcode.com/u/dr4k/
+- Discord: d4rkness123
 Pronouns: He/him
 
 Fun fact: Im using arch btw
