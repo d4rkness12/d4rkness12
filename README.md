@@ -16,6 +16,7 @@ Connect with me
 
 - LeetCode: https://leetcode.com/u/dr4k/
 - Discord: d4rkness123
+
 Pronouns: He/him
 
 Fun fact: Im using arch btw
