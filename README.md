@@ -25,10 +25,7 @@ I'm always open to **clear roadmaps, resources, project ideas, and advice on lea
 
 You can reach me at **techie.landerlasis@gmail.com** for questions, collaboration, or just to talk about programming.
 
-### Connect with me
-
 - **LeetCode:** https://leetcode.com/u/dr4k/
-- **Discord:** d4rkness123
 
 ### Pronouns
 He/Him
