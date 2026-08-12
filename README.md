@@ -1,23 +1,38 @@
-## Looking for a teenage backend enthusiast ???
+## Looking for a teenage developer / backend enthusiast ???
 
-Im d4rk a student who is passionate about linux , backends and ethical hacking
+Hey! I'm d4rk, a student passionate about programming, backend development, problem solving, and computer science.
 
-I’m currently working on buildng a basic foundation of linux , python , go and SQL
+I'm currently building my foundation in **Python, DSA, SQL, and backend development**.
 
-I’m currently learning linux command line and bash scripting
+I'm currently learning:
+-  Python
+-  Data Structures & Algorithms
+-  SQL
+-  Backend development
+-  Git & GitHub
 
-I’m looking to collaborate on future projects 
+I'm focusing on improving my **problem-solving skills through DSA and LeetCode**, while gradually working towards building real backend projects.
 
-I’m looking for help with clear roadmaps and help on learning 
+I'm looking to:
+- Collaborate on future projects
+- Connect with other developers
+- Learn from people better than me
+- Build interesting projects and improve my problem-solving skills
 
-How to reach me: to reach out to me you can gmail to techie.landerlasis@gmail.com for any help
+I'm always open to **clear roadmaps, resources, project ideas, and advice on learning effectively.**
 
-Connect with me
+### How to reach me
 
-- LeetCode: https://leetcode.com/u/dr4k/
-- Discord: d4rkness123
+You can reach me at **techie.landerlasis@gmail.com** for questions, collaboration, or just to talk about programming.
 
-Pronouns: He/him
+### Connect with me
 
-Fun fact: Im using arch btw
+- **LeetCode:** https://leetcode.com/u/dr4k/
+- **Discord:** d4rkness123
+
+### Pronouns
+He/Him
+
+### Fun fact
+**I'm on Windows, but my terminal probably gets more attention than my desktop.**
 
