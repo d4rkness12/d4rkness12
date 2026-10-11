@@ -22,4 +22,4 @@ Hey, I'm **d4rk**, a student interested in **AI/ML, app and game development, ba
 He/Him
 
 ### Fun fact
-I'm on Windows, but my terminal gets more attention than my desktop.
+I'm on Windows, but my terminal and my code editor gets more attention than my desktop.
